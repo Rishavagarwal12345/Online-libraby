@@ -235,16 +235,16 @@ function dil(form)
 
     <div id="templatemo_footer">
     
-        <ul class="footer_menu">
+        <ol class="footer_menu">
                    <li><a href="index.html">Home</a></li>
                     <li><a href="admin.jsp">Adminstrator</a></li>
                     <li><a href="member.jsp">Library Member</a></li>
                     <li><a href="bookdetailsforbookdetails.jsp">Book Details</a></li>
                      <li><a href="aboutus.jsp">About Us</a></li>
                     <li><a href="contactus.jsp">Contact Us</a></li>
-           </ul>
+           </ol>
                 
-                Copyright © 2048 <a href="#">Your Company Name</a> | 
+                Copyright ï¿½ 2048 <a href="#">Your Company Name</a> | 
                 <a href="http://www.javatpoint.com" target="_parent">Website Projects</a> by <a href="http://www.javatpoint.com" target="_parent">javatpoint.com</a></div>
     
 </div>
